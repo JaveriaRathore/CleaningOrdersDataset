@@ -1,0 +1,11 @@
+OrderID,Name,Age,City,OrderDate,Amount,Gender
+1,Ali,23,Karachi,2025-01-10,1000,M
+2,Sara,,Lahore,2025/01/11,$2000,F
+3,Ahmed,twenty,,12-01-2025,1500,M
+4,Zain,30,karachi,2025-01-13,,M
+5,Ayesha,25,Islamabad,2025-01-14,2500,F
+5,Ayesha,25,Islamabad,2025-01-14,2500,F
+6,Bilal,,Lahore,2025-01-15,$3000,M
+7,Hina,27,ISLAMABAD,2025-01-16,1800,F
+8,Omar,29,Karachi,,2200,M
+9,Noor,22,Lahore,2025-01-18,one thousand,F
